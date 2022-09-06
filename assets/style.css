@@ -12,7 +12,7 @@ footer {
 h1,
 h2 {
     text-align: center;
-    color:black
+    color:white;
 }
 img {
     display: block;
@@ -24,7 +24,7 @@ img {
 ul {
     padding-left: 40px;
     font-size: 20px;
-    color:black
+    color:black;
 }
 p {
     text-align: center;
